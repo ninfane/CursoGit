@@ -4,3 +4,7 @@ html{
     background-color: pink;
     font-family: 'Noto Sans Display', sans-serif;
 }
+
+body{
+    font-size: 18px;
+}
