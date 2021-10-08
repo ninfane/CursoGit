@@ -4,3 +4,7 @@ html{
     background-color: cadetblue;
     font-family: 'Noto Sans Display', sans-serif;
 }
+
+body{
+    font-size: 18px;
+}
